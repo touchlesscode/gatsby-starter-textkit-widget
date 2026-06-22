@@ -69,8 +69,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "setup": "node ./bin/setup.js",
-    "clean": "gatsby clean",
-    "preinstall": "node preinstall.js"
+    "clean": "gatsby clean"
   },
   "eslintConfig": {
     "extends": [
